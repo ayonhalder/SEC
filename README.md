@@ -1,4 +1,5 @@
 # SEC
+AJit Mahato
 
 ## Changed by Tanmay Haldar
 ### BCA
